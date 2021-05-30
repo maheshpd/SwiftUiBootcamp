@@ -11,6 +11,8 @@
 		B53106B92662A1B000D5E280 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53106B82662A1B000D5E280 /* ContentView.swift */; };
 		B53106BB2662A1B500D5E280 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B53106BA2662A1B500D5E280 /* Assets.xcassets */; };
 		B53106BE2662A1B500D5E280 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B53106BD2662A1B500D5E280 /* Preview Assets.xcassets */; };
+		B53106C7266319D000D5E280 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53106C6266319D000D5E280 /* TextBootcamp.swift */; };
+		B5D834EE2663D5CC0090D7AB /* ShapeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834ED2663D5CC0090D7AB /* ShapeBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		B53106BA2662A1B500D5E280 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B53106BD2662A1B500D5E280 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B53106BF2662A1B500D5E280 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B53106C6266319D000D5E280 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		B5D834ED2663D5CC0090D7AB /* ShapeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				B53106BA2662A1B500D5E280 /* Assets.xcassets */,
 				B53106BF2662A1B500D5E280 /* Info.plist */,
 				B53106BC2662A1B500D5E280 /* Preview Content */,
+				B53106C6266319D000D5E280 /* TextBootcamp.swift */,
+				B5D834ED2663D5CC0090D7AB /* ShapeBootcamp.swift */,
 			);
 			path = SwiftUiBootcamp;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5D834EE2663D5CC0090D7AB /* ShapeBootcamp.swift in Sources */,
 				B53106B92662A1B000D5E280 /* ContentView.swift in Sources */,
+				B53106C7266319D000D5E280 /* TextBootcamp.swift in Sources */,
 				B53106B72662A1B000D5E280 /* SwiftUiBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
