@@ -13,6 +13,7 @@
 		B53106BE2662A1B500D5E280 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B53106BD2662A1B500D5E280 /* Preview Assets.xcassets */; };
 		B53106C7266319D000D5E280 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53106C6266319D000D5E280 /* TextBootcamp.swift */; };
 		B5D834EE2663D5CC0090D7AB /* ShapeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834ED2663D5CC0090D7AB /* ShapeBootcamp.swift */; };
+		B5D834F12663DCB90090D7AB /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834F02663DCB90090D7AB /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B53106BF2662A1B500D5E280 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B53106C6266319D000D5E280 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		B5D834ED2663D5CC0090D7AB /* ShapeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBootcamp.swift; sourceTree = "<group>"; };
+		B5D834F02663DCB90090D7AB /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B53106BC2662A1B500D5E280 /* Preview Content */,
 				B53106C6266319D000D5E280 /* TextBootcamp.swift */,
 				B5D834ED2663D5CC0090D7AB /* ShapeBootcamp.swift */,
+				B5D834F02663DCB90090D7AB /* ColorsBootcamp.swift */,
 			);
 			path = SwiftUiBootcamp;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5D834F12663DCB90090D7AB /* ColorsBootcamp.swift in Sources */,
 				B5D834EE2663D5CC0090D7AB /* ShapeBootcamp.swift in Sources */,
 				B53106B92662A1B000D5E280 /* ContentView.swift in Sources */,
 				B53106C7266319D000D5E280 /* TextBootcamp.swift in Sources */,
