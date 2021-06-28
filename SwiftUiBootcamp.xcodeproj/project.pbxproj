@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B527E18326898FEE000A073B /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B527E18226898FEE000A073B /* SheetsBootcamp.swift */; };
+		B527E1862689A08E000A073B /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B527E1852689A08E000A073B /* PopoverBootcamp.swift */; };
 		B53106B72662A1B000D5E280 /* SwiftUiBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53106B62662A1B000D5E280 /* SwiftUiBootcampApp.swift */; };
 		B53106B92662A1B000D5E280 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53106B82662A1B000D5E280 /* ContentView.swift */; };
 		B53106BB2662A1B500D5E280 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B53106BA2662A1B500D5E280 /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		B527E18226898FEE000A073B /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
+		B527E1852689A08E000A073B /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		B53106B32662A1B000D5E280 /* SwiftUiBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B53106B62662A1B000D5E280 /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		B53106B82662A1B000D5E280 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 				B57BB6502683940C0062C844 /* AnimationBootcamp.swift */,
 				B57BB653268398180062C844 /* AnimationTimingBootcamp.swift */,
 				B564CE0E2686373C0047CB27 /* TransitionBootcamp.swift */,
+				B527E1852689A08E000A073B /* PopoverBootcamp.swift */,
 			);
 			path = SwiftUiBootcamp;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				B53106B72662A1B000D5E280 /* SwiftUiBootcampApp.swift in Sources */,
 				B564CE0F2686373C0047CB27 /* TransitionBootcamp.swift in Sources */,
 				B53E84372669C1FF0013DAE5 /* StacksBootcamp.swift in Sources */,
+				B527E1862689A08E000A073B /* PopoverBootcamp.swift in Sources */,
 				B539E2A0267853C100796882 /* BindingBootcamp.swift in Sources */,
 				B5943EB5266C65C10090FB48 /* SpacerBootcamp.swift in Sources */,
 				B57BB6512683940C0062C844 /* AnimationBootcamp.swift in Sources */,
