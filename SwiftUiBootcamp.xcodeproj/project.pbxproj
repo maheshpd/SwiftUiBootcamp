@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B527E18326898FEE000A073B /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B527E18226898FEE000A073B /* SheetsBootcamp.swift */; };
 		B53106B72662A1B000D5E280 /* SwiftUiBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53106B62662A1B000D5E280 /* SwiftUiBootcampApp.swift */; };
 		B53106B92662A1B000D5E280 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53106B82662A1B000D5E280 /* ContentView.swift */; };
 		B53106BB2662A1B500D5E280 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B53106BA2662A1B500D5E280 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B527E18226898FEE000A073B /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		B53106B32662A1B000D5E280 /* SwiftUiBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B53106B62662A1B000D5E280 /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		B53106B82662A1B000D5E280 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 		B53106AA2662A1B000D5E280 = {
 			isa = PBXGroup;
 			children = (
+				B527E18226898FEE000A073B /* SheetsBootcamp.swift */,
 				B53106B52662A1B000D5E280 /* SwiftUiBootcamp */,
 				B53106B42662A1B000D5E280 /* Products */,
 			);
@@ -216,6 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B527E18326898FEE000A073B /* SheetsBootcamp.swift in Sources */,
 				B549FC152672F6C70025C490 /* StateBootcamp.swift in Sources */,
 				B5D834F42663E3190090D7AB /* GradientsBootcamp.swift in Sources */,
 				B53E84342669B9F10013DAE5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
