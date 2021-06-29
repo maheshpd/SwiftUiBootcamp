@@ -42,6 +42,7 @@
 		B5D834FA2663ECC40090D7AB /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834F92663ECC40090D7AB /* ImageBootcamp.swift */; };
 		B5D834FD2663F05D0090D7AB /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834FC2663F05D0090D7AB /* FrameBootcamp.swift */; };
 		B5E784F3268B2EBA00608B4D /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E784F2268B2EBA00608B4D /* AlertBootcamp.swift */; };
+		B5E784F6268B491000608B4D /* ActionsheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E784F5268B491000608B4D /* ActionsheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +83,7 @@
 		B5D834F92663ECC40090D7AB /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		B5D834FC2663F05D0090D7AB /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		B5E784F2268B2EBA00608B4D /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		B5E784F5268B491000608B4D /* ActionsheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				B527E1882689A7A3000A073B /* NavigationViewBootcamp.swift */,
 				B527E18C2689AD88000A073B /* ListBootcamp.swift */,
 				B5E784F2268B2EBA00608B4D /* AlertBootcamp.swift */,
+				B5E784F5268B491000608B4D /* ActionsheetBootcamp.swift */,
 			);
 			path = SwiftUiBootcamp;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5E784F6268B491000608B4D /* ActionsheetBootcamp.swift in Sources */,
 				B527E18326898FEE000A073B /* SheetsBootcamp.swift in Sources */,
 				B549FC152672F6C70025C490 /* StateBootcamp.swift in Sources */,
 				B5D834F42663E3190090D7AB /* GradientsBootcamp.swift in Sources */,
