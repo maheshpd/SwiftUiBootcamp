@@ -41,6 +41,7 @@
 		B5D834F72663E9F10090D7AB /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834F62663E9F10090D7AB /* IconsBootcamp.swift */; };
 		B5D834FA2663ECC40090D7AB /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834F92663ECC40090D7AB /* ImageBootcamp.swift */; };
 		B5D834FD2663F05D0090D7AB /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D834FC2663F05D0090D7AB /* FrameBootcamp.swift */; };
+		B5E784F3268B2EBA00608B4D /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E784F2268B2EBA00608B4D /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		B5D834F62663E9F10090D7AB /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		B5D834F92663ECC40090D7AB /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		B5D834FC2663F05D0090D7AB /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
+		B5E784F2268B2EBA00608B4D /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 				B527E1852689A08E000A073B /* PopoverBootcamp.swift */,
 				B527E1882689A7A3000A073B /* NavigationViewBootcamp.swift */,
 				B527E18C2689AD88000A073B /* ListBootcamp.swift */,
+				B5E784F2268B2EBA00608B4D /* AlertBootcamp.swift */,
 			);
 			path = SwiftUiBootcamp;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				B543348F2672FC0E008D8B5D /* ExtractedFunctionsBootcamp.swift in Sources */,
 				B5C634B12672291200D5FFEA /* InitializerBootcamp.swift in Sources */,
 				B57BB64E268391DF0062C844 /* TernaryBootcamp.swift in Sources */,
+				B5E784F3268B2EBA00608B4D /* AlertBootcamp.swift in Sources */,
 				B5D834EE2663D5CC0090D7AB /* ShapeBootcamp.swift in Sources */,
 				B549FC0F2672E9E00025C490 /* SafeAreaBootcamp.swift in Sources */,
 				B57BB654268398180062C844 /* AnimationTimingBootcamp.swift in Sources */,
