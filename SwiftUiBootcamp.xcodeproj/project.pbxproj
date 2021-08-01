@@ -34,6 +34,7 @@
 		B5943EB5266C65C10090FB48 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5943EB4266C65C10090FB48 /* SpacerBootcamp.swift */; };
 		B5A1428726B66E0A004F95B2 /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A1428626B66E0A004F95B2 /* TextfieldBootcamp.swift */; };
 		B5A1428A26B680A4004F95B2 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A1428926B680A4004F95B2 /* TextEditorBootcamp.swift */; };
+		B5A1428D26B686E1004F95B2 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A1428C26B686E1004F95B2 /* ToggleBootcamp.swift */; };
 		B5C634B12672291200D5FFEA /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C634B02672291200D5FFEA /* InitializerBootcamp.swift */; };
 		B5C634B42672326800D5FFEA /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C634B32672326800D5FFEA /* ForEachBootcamp.swift */; };
 		B5C634B7267236DB00D5FFEA /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C634B6267236DB00D5FFEA /* ScrollViewBootcamp.swift */; };
@@ -78,6 +79,7 @@
 		B5943EB4266C65C10090FB48 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		B5A1428626B66E0A004F95B2 /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
 		B5A1428926B680A4004F95B2 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
+		B5A1428C26B686E1004F95B2 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		B5C634B02672291200D5FFEA /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		B5C634B32672326800D5FFEA /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		B5C634B6267236DB00D5FFEA /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
@@ -162,6 +164,7 @@
 				B5514BBC268DAC8900462747 /* ContextMenuBootcamp.swift */,
 				B5A1428626B66E0A004F95B2 /* TextfieldBootcamp.swift */,
 				B5A1428926B680A4004F95B2 /* TextEditorBootcamp.swift */,
+				B5A1428C26B686E1004F95B2 /* ToggleBootcamp.swift */,
 			);
 			path = SwiftUiBootcamp;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				B549FC122672EF5E0025C490 /* ButtonBootcamp.swift in Sources */,
 				B53106C7266319D000D5E280 /* TextBootcamp.swift in Sources */,
 				B53106B72662A1B000D5E280 /* SwiftUiBootcampApp.swift in Sources */,
+				B5A1428D26B686E1004F95B2 /* ToggleBootcamp.swift in Sources */,
 				B564CE0F2686373C0047CB27 /* TransitionBootcamp.swift in Sources */,
 				B53E84372669C1FF0013DAE5 /* StacksBootcamp.swift in Sources */,
 				B527E1862689A08E000A073B /* PopoverBootcamp.swift in Sources */,
