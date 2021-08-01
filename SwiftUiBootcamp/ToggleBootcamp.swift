@@ -10,8 +10,6 @@ import SwiftUI
 struct ToggleBootcamp: View {
     
     @State var toggleIsOn: Bool = false
-    
-    
     var body: some View {
         VStack {
             
